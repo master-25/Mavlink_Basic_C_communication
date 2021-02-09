@@ -24,6 +24,18 @@ The purpose of doing this was because when I tried to do low level mavlink commu
 
 https://github.com/mavlink/c_uart_interface_example by Lorenz Meier were a bit overwhelming and I had to really look deepy into each function call
 
-This is meant to be a starting point for those who wish to implement specific and targeted applications using mavlink like testing advanced control algorithms or wish to perform vision based autoomous flight, this might be of use to you as a starting point
+This is meant to be a starting point for those who wish to implement specific and targeted applications using mavlink like testing advanced control algorithms or wish to perform vision based autonomous flight, this might be of use to you as a starting point
 
 Do let me know if there is anything that is unclear, inaccurate and/or could be improved
+
+
+The references that helped greatly are
+
+1) https://github.com/mavlink/c_uart_interface_example
+
+2) https://discuss.ardupilot.org/t/mavlink-and-arduino-step-by-step/25566
+
+3) https://mavlink.io/en/messages/common.html
+
+4) http://mavlink.io/en/mavgen_c/
+
